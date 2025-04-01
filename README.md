@@ -2,8 +2,8 @@
 
 <hr>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Bytebank: o seu banco digital!</p>
+![printTela](https://github.com/user-attachments/assets/130b683b-47b3-4006-870c-272ff0118c1f)
+
 
 ## Assuntos abordados durante o curso
 * Fetch API
